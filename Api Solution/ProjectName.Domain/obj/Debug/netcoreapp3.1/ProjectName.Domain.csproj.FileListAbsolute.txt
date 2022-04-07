@@ -1,0 +1,9 @@
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\obj\Debug\netcoreapp3.1\ProjectName.Domain.AssemblyInfoInputs.cache
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\obj\Debug\netcoreapp3.1\ProjectName.Domain.AssemblyInfo.cs
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\obj\Debug\netcoreapp3.1\ProjectName.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\bin\Debug\netcoreapp3.1\ProjectName.Domain.deps.json
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\bin\Debug\netcoreapp3.1\ProjectName.Domain.dll
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\bin\Debug\netcoreapp3.1\ProjectName.Domain.pdb
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\obj\Debug\netcoreapp3.1\ProjectName.Domain.dll
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\obj\Debug\netcoreapp3.1\ProjectName.Domain.pdb
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\obj\Debug\netcoreapp3.1\ProjectName.Domain.csprojAssemblyReference.cache

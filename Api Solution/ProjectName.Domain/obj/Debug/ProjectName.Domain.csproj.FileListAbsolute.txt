@@ -1,0 +1,6 @@
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\bin\Debug\ProjectName.Domain.dll
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\bin\Debug\ProjectName.Domain.pdb
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\obj\Debug\ProjectName.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\obj\Debug\ProjectName.Domain.dll
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\obj\Debug\ProjectName.Domain.pdb
+C:\Users\kuppireddygs\source\repos\ProjectName.Domain\obj\Debug\ProjectName.Domain.csprojAssemblyReference.cache
